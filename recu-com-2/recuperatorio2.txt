@@ -1,0 +1,9 @@
+Segundo parcial recuperatorio.
+
+- Se provee la estructura incial para resolver el registro de vehículos. 
+- Lo que se da no puede ser alterado (solo las lineas 7 y 8 de index.php).
+- Los archivos "renombrar" deben nombrarse correctamente.
+- Se tiene que entregar en menos de una hora.
+- Una vez entregado o cumplido el plazo, se hará una breve defensa oral.
+
+
